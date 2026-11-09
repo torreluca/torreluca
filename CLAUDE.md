@@ -22,6 +22,10 @@ Se il ponte risponde `unauthorized` o non c'è `config.json`, l'installazione è
 
 | Cartella | ID |
 |---|---|
+| Cellulare › Salute | `1Mq6luDYn60ARvoIADVdWSnTij-rX49dS` |
 | Cellulare › Salute › Referti | `1EIDl3opMW4FdMFyZ_xITK2L-3Z9iSQkf` |
+
+Foglio **Spese sanitarie 2026** (in Salute): `1Z_Nku8B0g2ycg56Rkixshx4mVNk8YJrhl5XzWEloW90`.
+Aggiungi lì ogni nuova spesa sanitaria: una riga per spesa, colonne A–I. Il riepilogo nelle colonne K–L si aggiorna da solo.
 
 Schema dei nomi dei documenti: `AAAA MM GG Tipo Documento.pdf` (es. `2026 11 09 Oculista Fattura.pdf`).
